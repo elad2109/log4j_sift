@@ -19,8 +19,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rr-logger_main" target="1.5" />
-      <module name="rr-logger_test" target="1.5" />
       <module name="rr_logger_main" target="1.8" />
       <module name="rr_logger_test" target="1.8" />
     </bytecodeTargetLevel>
